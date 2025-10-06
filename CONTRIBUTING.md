@@ -7,6 +7,6 @@ We welcome contributions to improve Team Communicator. To get started, please fo
 4. Push your branch to your fork.
 5. Open a Pull Request.
 
-Please ensure that your code adheres to the project’s coding standards and includes appropriate tests where necessary.
+Please ensure that your code adheres to the project’s coding standards, includes appropriate tests where necessary, and that all tests pass before submitting.
 
 Thanks for your contributions!
