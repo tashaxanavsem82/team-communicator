@@ -1,7 +1,7 @@
 {
   "name": "team-communicator",
   "version": "1.0.0",
-  "description": "A tool designed to enhance team collaboration.",
+  "description": "A real-time communication tool designed to enhance team collaboration and productivity.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
